@@ -72,7 +72,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=dark&count_private=true&include_all_commits=false&hide_border=true&custom_title=Anant's%20GitHub%20Stats)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=dark&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
 
