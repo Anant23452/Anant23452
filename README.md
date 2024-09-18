@@ -3,7 +3,6 @@
 
 <div style="background: linear-gradient(to bottom, #1a1a1a, #2c2c2c); color: #ffffff; padding: 20px; border-radius: 10px;">
 
-# Welcome to My GitHub Profile!
 <h1 align="center">
   <span style="color: #ff6b6b;">A</span><span style="color: #4ecdc4;">n</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">n</span><span style="color: #5c8d89;">t</span> <span style="color: #ff6b6b;">K</span> <span style="color: #4ecdc4;">P</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">t</span><span style="color: #5c8d89;">e</span><span style="color: #ff6b6b;">l</span>
 </h1>
@@ -13,7 +12,6 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500">
   </div>
 
-## About Me
 <div style="background: #2c2c2c; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #4ecdc4;">
   <p style="color: #ffffff; text-shadow: 0 0 5px #4ecdc4;">
     I'm a passionate <span style="color: #ff6b6b; font-weight: bold;">web developer</span> and <span style="color: #f7b731; font-weight: bold;">designer</span> currently pursuing my B.Tech in my 2nd year. My journey in the world of coding has been exciting, and I'm always eager to learn more. With a keen eye for aesthetics and a love for clean code, I strive to create innovative and user-friendly web experiences.
@@ -22,7 +20,7 @@
 
 
 
-## Skills
+
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -41,7 +39,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP">
 </div>
-## Connect with Me
+
 <h2 style="animation: colorChange 5s infinite; text-align: center;">
   <span style="display: inline-block; animation: bounce 1s infinite;">C</span>
   <span style="display: inline-block; animation: bounce 1s infinite 0.1s;">o</span>
@@ -71,8 +69,12 @@
   </a>
 </div>
 
-## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=dark&count_private=true&include_all_commits=false&hide_border=true&custom_title=Anant's%20GitHub%20Stats)
+
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate!
 
