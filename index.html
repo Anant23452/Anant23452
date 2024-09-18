@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700">
+    <div class="main w-full ">
+        <div class="flex flex-col items-center space-y-4 p-6 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 rounded-lg shadow-lg">
+            <h1 class="text-4xl font-extrabold text-white text-center font-['Pacifico'] leading-tight">
+                Hi 👋🌟, I'm Anant k patel
+            </h1>
+            <h3 class="text-2xl font-semibold text-white text-center font-['Quicksand'] tracking-wide">
+                A passionate 🚀 full-stack developer from India 🇮🇳
+            </h3>
+        </div>
+<br>
+
+<div class="bg-gray-100 p-4 rounded-lg shadow-md flex items-center justify-center">
+    <span class="text-lg font-semibold text-gray-700 mr-2">Profile Views:</span>
+    <span class="bg-blue-500 text-white px-3 py-1 rounded-full text-sm font-bold">
+        <span id="profileViews">Loading...</span>
+    </span>
+</div>
+<script>
+    fetch('https://api.countapi.xyz/hit/anant23452/visits')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('profileViews').innerText = data.value.toLocaleString();
+        });
+</script>
+<br>
+<div class="bg-gray-100 p-6 rounded-lg shadow-md space-y-4 font-['Montserrat'] flex">
+    <div class="w-2/3 pr-4">
+        <h2 class="text-2xl font-bold text-gray-800 mb-4 animate-pulse">About Me</h2>
+        
+        <div class="flex items-center space-x-3 transition-all duration-300 hover:translate-x-2">
+            <span class="text-green-500 text-2xl">🌱</span>
+            <p class="text-gray-700">I'm currently learning <span class="font-semibold">Reactjs and Threejs</span></p>
+        </div>
+
+        <div class="flex items-center space-x-3 transition-all duration-300 hover:translate-x-2">
+            <span class="text-blue-500 text-2xl">👨‍💻</span>
+            <p class="text-gray-700">All of my projects are available at <a href="https://anant23452.github.io/Anant-Portfolio/" class="text-blue-600 hover:underline">my portfolio</a></p>
+        </div>
+
+        <div class="flex items-center space-x-3 transition-all duration-300 hover:translate-x-2">
+            <span class="text-purple-500 text-2xl">💬</span>
+            <p class="text-gray-700">Ask me about <span class="font-semibold">react, vite, gsap, lenis</span></p>
+        </div>
+
+        <div class="flex items-center space-x-3 transition-all duration-300 hover:translate-x-2">
+            <span class="text-red-500 text-2xl">📫</span>
+            <p class="text-gray-700">How to reach me: <a href="mailto:anantkumarpatel950@gmail.com" class="text-blue-600 hover:underline">anantkumarpatel950@gmail.com</a></p>
+        </div>
+
+        <div class="flex items-center space-x-3 transition-all duration-300 hover:translate-x-2">
+            <span class="text-yellow-500 text-2xl">⚡</span>
+            <p class="text-gray-700">Fun fact: <span class="italic">I think I can't do, but I always end up doing it!</span></p>
+        </div>
+    </div>
+    <div class="w-1/3 flex items-center justify-center">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" class="rounded-lg shadow-md max-w-full h-auto">
+    </div>
+</div>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const items = document.querySelectorAll('.transition-all');
+        items.forEach((item, index) => {
+            item.style.opacity = '0';
+            item.style.transform = 'translateY(20px)';
+            setTimeout(() => {
+                item.style.opacity = '1';
+                item.style.transform = 'translateY(0)';
+            }, index * 200);
+        });
+    });
+</script>
+
+
+<p align="left">
+</p>
+
+<div class="bg-gray-100 p-4 rounded-lg shadow-md">
+    <h3 class="text-2xl font-semibold text-gray-800 mb-2 border-b-2 border-gray-300 pb-2">Languages and Tools</h3>
+</div>
+<div class="w-full flex flex-wrap justify-center items-center gap-4 py-8">
+    <style>
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        .tool-icon {
+            transition: all 0.3s ease;
+            animation: float 3s ease-in-out infinite;
+        }
+        .tool-icon:hover {
+            transform: scale(1.2);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+    </style>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" class="w-16 h-16"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" class="w-16 h-16"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" class="w-16 h-16"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" class="w-16 h-16"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" class="w-16 h-16"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" class="w-16 h-16"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" class="w-16 h-16"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" class="w-16 h-16"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener" class="tool-icon bg-white rounded-full p-2 hover:bg-gray-100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" class="w-16 h-16"/>
+    </a>
+</div>
+
+<div class="stats-container flex flex-col md:flex-row justify-center items-center gap-4 mt-8 animate-fade-in">
+    <div class="stats-item bg-white rounded-lg shadow-md p-4 transition-transform hover:scale-105">
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anant23452&show_icons=true&locale=en&layout=compact" alt="anant23452" class="w-full h-auto" /></p>
+    </div>
+    <div class="stats-item bg-white rounded-lg shadow-md p-4 transition-transform hover:scale-105">
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&locale=en" alt="anant23452" class="w-full h-auto" /></p>
+    </div>
+</div>
+
+<style>
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+    .animate-fade-in {
+        animation: fadeIn 1s ease-in-out;
+    }
+    .stats-item {
+        transition: transform 0.3s ease-in-out;
+    }
+    .stats-item:hover {
+        transform: scale(1.05);
+    }
+</style>
+
+    <div class="connect-container flex flex-col items-center mt-8 animate-fade-in">
+        <h2 class="text-2xl font-bold mb-4 text-white">Connect With Us</h2>
+        <div class="social-links flex gap-4">
+            <a href="https://www.linkedin.com/in/anant-k-patel-3734b4296/" target="_blank" rel="noreferrer noopener" class="social-icon bg-white rounded-full p-2 hover:bg-gray-100">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="w-8 h-8"/>
+            </a>
+            <a href="https://github.com/Anant23452" target="_blank" rel="noreferrer noopener" class="social-icon bg-white rounded-full p-2 hover:bg-gray-100">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" class="w-8 h-8"/>
+            </a>
+          
+        </div>
+    </div>
+
+    </div>
+</body>
+</html>
