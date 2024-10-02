@@ -75,6 +75,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=dark&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=radical)
+
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate!
 
