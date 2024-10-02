@@ -3,9 +3,14 @@
 
 <div style="background: linear-gradient(to bottom, #1a1a1a, #2c2c2c); color: #ffffff; padding: 20px; border-radius: 10px;">
 
+
+
+
+
 <h1 align="center">
   <span style="color: #ff6b6b;">A</span><span style="color: #4ecdc4;">n</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">n</span><span style="color: #5c8d89;">t</span> <span style="color: #ff6b6b;">K</span> <span style="color: #4ecdc4;">P</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">t</span><span style="color: #5c8d89;">e</span><span style="color: #ff6b6b;">l</span>
 </h1>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning)
 <div align="center">
@@ -72,15 +77,22 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=dark&count_private=true&include_all_commits=false&hide_border=true&custom_title=Anant's%20GitHub%20Stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=dark&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anant23452&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=9ef01a&border_color=30363d)
 
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate!
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=20&margin-h=20&title=Stars,Followers,Commits,PullRequests,Issues,Repositories,Contributions)
+
+
+
+
+
+
+
+
+
+
 
 </div>
 <!-- README.md content ends here -->
