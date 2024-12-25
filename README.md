@@ -43,6 +43,14 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP">
+  <img src="https://img.shields.io/badge/-Lenis.js-FF6F61?style=flat-square&logo=javascript&logoColor=white" alt="Lenis.js">
+<img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" alt="Microsoft Word">
+<img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint">
+<img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+
 </div>
 
 <h2 style="animation: colorChange 5s infinite; text-align: center;">
