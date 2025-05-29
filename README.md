@@ -51,7 +51,8 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" alt="Java">
+
 
 
 </div>
