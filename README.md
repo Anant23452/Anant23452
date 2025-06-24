@@ -85,16 +85,78 @@
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Personal Website" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+</div>
+
+<div align="center">
+
+[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anant23452&theme=darkhub&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=dark&count_private=true&include_all_commits=false&hide_border=true&custom_title=Anant's%20GitHub%20Stats)
+<!-- GitHub Profile Stats - Advanced and Dynamic -->
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Anant's%20GitHub%20Stats" width="49%" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=anant23452&theme=radical&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=radical&langs_count=10&hide_border=true" width="49%" />
+
+<!-- Visitor Count -->
+<img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
+<!-- 🌙 Dark-Themed GitHub Contribution Section -->
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 15px; max-width: 800px; margin: auto;">
+  <h2 style="color:#58a6ff;">💻 Contributions Timeline</h2>
+  <p style="color:#8b949e;">Since <strong>2019</strong> • Hover for details • Blinking lights show your top contribution days ✨</p>
+  <!-- GitHub Contribution Calendar with Custom Dark Theme -->
+<!-- Embed this script in your README -->
+<p align="center">
+  <a href="https://github.com/anant23452">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anant23452&theme=github_dark" />
+  </a>
+</p>
+<!-- 🌌 Contribution Calendar Section -->
+
+## 📅 Yearly Contribution Stats (Click to Explore More)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff00/anant23452" alt="Anant's GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anant23452" target="_blank">
+    <img src="https://img.shields.io/badge/View_Full_Contribution_History-Click_Here-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Full Contribution History" />
+  </a>
+</p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anant23452&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=9ef01a&border_color=30363d)
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=20&margin-h=20&title=Stars,Followers,Commits,PullRequests,Issues,Repositories,Contributions)
+
+
+  
+
 
 
 
