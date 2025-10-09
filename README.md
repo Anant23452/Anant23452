@@ -143,10 +143,9 @@
 # 📅 Yearly Contribution Stats (Click to Explore More)
 <!-- README: GitHub contributions snake (dark mode) -->
 <p align="center">
-  <a href="https://github.com/yyle88/yyle88" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-         alt="GitHub contribution snake (dark mode)"
-         width="820"/>
+  <a href="https://github.com/anant23452" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/anant23452/anant23452/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+         alt="GitHub contribution snake (dark mode)" width="820"/>
   </a>
 </p>
 
