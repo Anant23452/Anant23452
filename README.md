@@ -6,13 +6,15 @@
 
 
 
-
 <h1 align="center">
   <span style="color: #ff6b6b;">A</span><span style="color: #4ecdc4;">n</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">n</span><span style="color: #5c8d89;">t</span> <span style="color: #ff6b6b;">K</span> <span style="color: #4ecdc4;">P</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">t</span><span style="color: #5c8d89;">e</span><span style="color: #ff6b6b;">l</span>
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=00FF80&width=999&lines=Hi+there+👋;+I'm+Anant+Kumar+Patel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning)
+
 <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500">
   </div>
@@ -138,17 +140,17 @@
 </p>
 <!-- 🌌 Contribution Calendar Section -->
 
-## 📅 Yearly Contribution Stats (Click to Explore More)
-
+# 📅 Yearly Contribution Stats (Click to Explore More)
+<!-- README: GitHub contributions snake (dark mode) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/anant23452" alt="Anant's GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anant23452" target="_blank">
-    <img src="https://img.shields.io/badge/View_Full_Contribution_History-Click_Here-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Full Contribution History" />
+  <a href="https://github.com/yyle88/yyle88" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+         alt="GitHub contribution snake (dark mode)"
+         width="820"/>
   </a>
 </p>
+
+
 
 
 
