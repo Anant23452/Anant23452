@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="760" height="140" viewBox="0 0 760 140" role="img" aria-labelledby="title desc">
+  <title id="title">Anant — personal name badge</title>
+  <desc id="desc">Stylish name SVG showing 'Anant' with username 'anant23452' and subtle animated gradient.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ffd86b"/>
+      <stop offset="50%" stop-color="#ff8a65"/>
+      <stop offset="100%" stop-color="#9b59ff"/>
+    </linearGradient>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .bg { fill: transparent; }
+      .card { rx: 12; ry: 12; fill: #0b0f14; opacity: 0.85; }
+      .name { font-family: "Inter", "Segoe UI", Roboto, system-ui, -apple-system, sans-serif;
+             font-size: 48px; font-weight: 700; fill: url(#g1); }
+      .user { font-family: "Inter", "Segoe UI", Roboto, system-ui, -apple-system, sans-serif;
+             font-size: 16px; fill: #9aa6b2; letter-spacing: 0.6px; }
+      .chip { fill: rgba(255,255,255,0.03); stroke: rgba(255,255,255,0.04); rx:8; ry:8; }
+      .spark { fill: #ffd86b; opacity: 0.14; filter: url(#soft); }
+      /* subtle gradient slide */
+      @keyframes slide {
+        0% { transform: translateX(-30%); }
+        100% { transform: translateX(30%); }
+      }
+      .g1-anim { transform-origin: 50% 50%; animation: slide 4s linear infinite alternate; }
+    </style>
+  </defs>
+
+  <!-- background card -->
+  <rect class="card" x="6" y="6" width="748" height="128" />
+
+  <!-- decorative spark -->
+  <ellipse class="spark" cx="640" cy="28" rx="42" ry="16"/>
+
+  <!-- rounded chip left -->
+  <rect class="chip" x="24" y="28" width="120" height="48"/>
+  <text x="84" y="60" text-anchor="middle" class="user" style="font-weight:600; fill:#e6edf3;">Student</text>
+
+  <!-- main name -->
+  <g transform="translate(160, 52)">
+    <text class="name">Anant</text>
+  </g>
+
+  <!-- username subtext -->
+  <g transform="translate(160, 92)">
+    <text class="user">@anant23452</text>
+  </g>
+
+  <!-- animated gradient overlay (visual effect) -->
+  <g class="g1-anim" opacity="0.9">
+    <rect x="160" y="18" width="420" height="86" fill="url(#g1)" opacity="0.06" rx="8" ry="8"/>
+  </g>
+
+  <!-- small bio icons (minimal) -->
+  <g transform="translate(600,70)">
+    <!-- small circle icon -->
+    <circle cx="0" cy="0" r="12" fill="#2dd4bf"/>
+    <text x="28" y="6" class="user" style="fill:#cdece6">Dev / Student</text>
+  </g>
+</svg>
