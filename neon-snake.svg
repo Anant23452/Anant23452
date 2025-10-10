@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0f10"/>
+      <stop offset="100%" stop-color="#151a24"/>
+    </linearGradient>
+
+    <!-- Neon Gradient -->
+    <linearGradient id="snake" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff9"/>
+      <stop offset="50%" stop-color="#6f00ff"/>
+      <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <path id="path" d="M 100 180 Q 300 60 500 180 T 900 180"/>
+    <style>
+      text {
+        font-family: 'Poppins', 'Segoe UI', sans-serif;
+        fill: url(#snake);
+        font-weight: 700;
+        font-size: 64px;
+        text-anchor: middle;
+        filter: url(#glow);
+      }
+
+      /* Snake body animation along path */
+      .dot {
+        r: 6;
+        fill: url(#snake);
+        filter: url(#glow);
+        offset-path: path('M 100 180 Q 300 60 500 180 T 900 180');
+        animation: moveSnake 5s linear infinite;
+      }
+
+      .dot:nth-child(2) { animation-delay: 0.4s; }
+      .dot:nth-child(3) { animation-delay: 0.8s; }
+      .dot:nth-child(4) { animation-delay: 1.2s; }
+      .dot:nth-child(5) { animation-delay: 1.6s; }
+
+      @keyframes moveSnake {
+        0% { offset-distance: 0%; opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { offset-distance: 100%; opacity: 0; }
+      }
+
+      /* subtle background grid */
+      .grid line {
+        stroke: #20252f;
+        stroke-width: 1;
+      }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="300" fill="url(#bg)" />
+
+  <!-- grid pattern -->
+  <g class="grid">
+    <!-- vertical -->
+    <line x1="0" y1="40" x2="800" y2="40"/>
+    <line x1="0" y1="80" x2="800" y2="80"/>
+    <line x1="0" y1="120" x2="800" y2="120"/>
+    <line x1="0" y1="160" x2="800" y2="160"/>
+    <line x1="0" y1="200" x2="800" y2="200"/>
+    <line x1="0" y1="240" x2="800" y2="240"/>
+    <!-- horizontal -->
+    <line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="500" y1="0" x2="500" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="700" y1="0" x2="700" y2="300"/>
+  </g>
+
+  <!-- name -->
+  <text x="400" y="100">Anant</text>
+  <text x="400" y="140" font-size="24" fill="#7f8fa3">@anant23452</text>
+
+  <!-- snake dots -->
+  <circle cla
