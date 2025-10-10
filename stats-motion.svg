@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Save as stats-motion.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-label="Anant GitHub stats with motion">
   <defs>
     <style><![CDATA[
@@ -7,80 +6,45 @@
       .title { font: 700 20px/1 "Poppins", "Segoe UI", sans-serif; fill: #e6eef8; }
       .sub { font: 500 14px/1 "Inter", sans-serif; fill: #97a6bf; }
       .shadow { filter: drop-shadow(0 8px 24px rgba(2,6,23,0.7)); }
-
-      /* entrance animation */
-      .enter {
-        animation: enter 800ms cubic-bezier(.2,.9,.2,1) both;
-      }
-      @keyframes enter {
-        from { transform: translateY(20px); opacity: 0; }
-        to   { transform: translateY(0); opacity: 1; }
-      }
-
-      /* subtle float for the graph */
-      .float {
-        animation: float 6s ease-in-out infinite;
-        transform-origin: center;
-      }
-      @keyframes float {
-        0%   { transform: translateY(0px); }
-        50%  { transform: translateY(-6px); }
-        100% { transform: translateY(0px); }
-      }
-
-      /* slide-in for stats image */
-      .slide-in {
-        animation: slideIn 1200ms cubic-bezier(.2,.9,.2,1) both;
-      }
-      @keyframes slideIn {
-        from { transform: translateX(18px); opacity: 0; }
-        to   { transform: translateX(0); opacity: 1; }
-      }
-
-      /* small glow */
+      .enter { animation: enter 800ms cubic-bezier(.2,.9,.2,1) both; }
+      @keyframes enter { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+      .float { animation: float 6s ease-in-out infinite; transform-origin: center; }
+      @keyframes float { 0%{transform:translateY(0)}50%{transform:translateY(-6px)}100%{transform:translateY(0)} }
+      .slide-in { animation: slideIn 1200ms cubic-bezier(.2,.9,.2,1) both; }
+      @keyframes slideIn { from{transform:translateX(18px);opacity:0}to{transform:translateX(0);opacity:1} }
       .glow { filter: drop-shadow(0 0 10px rgba(99,102,241,0.15)); }
-
-      /* responsive-ish text clamp for svg display only */
       .small { font-size: 12px; fill: #9fb0d1; }
     ]]></style>
   </defs>
 
-  <!-- background card -->
   <rect class="card shadow" x="12" y="12" width="876" height="336" />
-
-  <!-- header -->
   <g transform="translate(36,40)">
     <text class="title">Hi — I'm Anant</text>
-    <text class="sub" y="26">GitHub summary · live (may be cached, use cache_seconds param to force refresh)</text>
+    <text class="sub" y="26">GitHub summary · live (auto-updating)</text>
   </g>
 
-  <!-- left: stats image (github-readme-stats) -->
-  <!-- uses cache_seconds to reduce caching (set to 60 for quicker updates) -->
   <g transform="translate(36,86)" class="enter slide-in">
     <rect x="-6" y="-6" width="380" height="178" rx="10" fill="#061018" opacity="0.48"/>
     <image x="0" y="0" width="368" height="166"
-      href="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=60"
+      href="https://github-readme-stats.vercel.app/api?username=anant23452&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;cache_seconds=60"
       preserveAspectRatio="xMidYMid slice" class="glow" />
   </g>
 
-  <!-- right: contribution graph -->
   <g transform="translate(440,86)" class="enter float">
     <rect x="-6" y="-6" width="420" height="178" rx="10" fill="#061018" opacity="0.48"/>
     <image x="0" y="0" width="408" height="166"
-      href="https://github-readme-activity-graph.vercel.app/graph?username=anant23452&theme=react-dark&area=true&hide_border=true&cache_seconds=60"
+      href="https://github-readme-activity-graph.vercel.app/graph?username=anant23452&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;cache_seconds=60"
       preserveAspectRatio="xMidYMid slice" class="glow" />
   </g>
 
-  <!-- bottom row: top langs + small badge -->
   <g transform="translate(36,270)" class="enter slide-in">
     <rect x="-6" y="-6" width="368" height="62" rx="10" fill="#061018" opacity="0.48"/>
     <image x="0" y="0" width="368" height="50"
-      href="https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"
+      href="https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=60"
       preserveAspectRatio="xMidYMid slice" />
-    <text x="386" y="28" class="small">Last update: auto (cache param ⏱)</text>
+    <text x="386" y="28" class="small">Last update: auto ⏱</text>
   </g>
 
-  <!-- subtle animated stripe on top-right for motion -->
   <g transform="translate(730,28)">
     <rect x="-30" y="-18" width="120" height="6" rx="3" fill="#5b21b6" opacity="0.12">
       <animate attributeName="x" from="-30" to="-8" dur="1.6s" repeatCount="indefinite" />
