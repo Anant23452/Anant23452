@@ -10,9 +10,9 @@
 
 
 ![name](./name.svg)
-### 🐍 Custom Neon Snake Animation
 
-![Neon Snake](./neon-snake.svg)
+![Neon Snake](https://raw.githubusercontent.com/anant23452/anant23452/main/neon-snake.svg#gh-dark-mode-only)
+
 
 
 
