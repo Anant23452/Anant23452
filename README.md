@@ -9,6 +9,9 @@
 
 
 ![name](./name.svg)
+### 🐍 Custom Neon Snake Animation
+
+![Neon Snake](./neon-snake.svg)
 
 
 
