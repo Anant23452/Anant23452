@@ -119,9 +119,7 @@
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Anant's%20GitHub%20Stats" width="49%" />
 
-### 👨‍💻 GitHub Live Stats (with motion)
 
-![Anant's live stats](https://raw.githubusercontent.com/anant23452/anant23452/main/stats-motion.svg)
 
 
 
