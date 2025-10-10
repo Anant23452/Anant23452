@@ -11,7 +11,6 @@
 
 ![name](./name.svg)
 
-![Neon Snake](https://raw.githubusercontent.com/anant23452/anant23452/main/neon-snake.svg#gh-dark-mode-only)
 
 
 
@@ -129,6 +128,9 @@
 <!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=0e75b6&style=flat" />
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anant23452&theme=tokyonight)](https://github.com/anant23452)
+
+
 </div>
 <!-- 🌙 Dark-Themed GitHub Contribution Section -->
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 15px; max-width: 800px; margin: auto;">
@@ -136,19 +138,10 @@
   <p style="color:#8b949e;">Since <strong>2019</strong> • Hover for details • Blinking lights show your top contribution days ✨</p>
   <!-- GitHub Contribution Calendar with Custom Dark Theme -->
 <!-- Embed this script in your README -->
-<p align="center">
-  <a href="https://github.com/anant23452">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anant23452&theme=github_dark" />
-  </a>
-</p>
+
 <!-- 🌌 Contribution Calendar Section -->
 
-# 📅 Yearly Contribution Stats (Click to Explore More)
-<!-- README: GitHub contributions snake (dark mode) --><p align="center">
-![github contribution grid snake dark](https://raw.githubusercontent.com/anant23452/anant23452/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-### 🐍 My GitHub Contribution Snake (Dark Mode)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/anant23452/anant23452/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
