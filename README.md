@@ -9,6 +9,9 @@
 <h1 align="center">
   <span style="color: #ff6b6b;">A</span><span style="color: #4ecdc4;">n</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">n</span><span style="color: #5c8d89;">t</span> <span style="color: #ff6b6b;">K</span> <span style="color: #4ecdc4;">P</span><span style="color: #45b7d1;">a</span><span style="color: #f7b731;">t</span><span style="color: #5c8d89;">e</span><span style="color: #ff6b6b;">l</span>
 </h1>
+
+![name](./name.svg)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=00FF80&width=999&lines=Hi+there+👋;+I'm+Anant+Kumar+Patel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
