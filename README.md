@@ -139,7 +139,7 @@
 <!-- 🌙 Dark-Themed GitHub Contribution Section -->
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 15px; max-width: 800px; margin: auto;">
   <h2 style="color:#58a6ff;">💻 Contributions Timeline</h2>
-  <p style="color:#8b949e;">Since <strong>2019</strong> • Hover for details • Blinking lights show your top contribution days ✨</p>
+ 
   <!-- GitHub Contribution Calendar with Custom Dark Theme -->
 <!-- Embed this script in your README -->
 
