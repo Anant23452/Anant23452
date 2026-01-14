@@ -125,7 +125,7 @@
 
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
 
 
 <!-- Most Used Languages -->
