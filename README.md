@@ -117,17 +117,20 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Anant's%20GitHub%20Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
+
 
 
 
 
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=anant23452&theme=radical&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=radical&hide_border=true" width="49%" />
+
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=radical&langs_count=10&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" width="49%" />
+
 
 <!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=0e75b6&style=flat" />
