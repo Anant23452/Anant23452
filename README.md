@@ -15,15 +15,19 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Engineer%20%7C%20DSA%20%7C%20LeetCode%20%7C%20Gen%20AI&fontSize=35&animation=twinkling&fontAlignY=40)
 
 
+
+
 <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500">
   </div>
 
-<div style="background: #2c2c2c; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #4ecdc4;">
-  <p style="color: #ffffff; text-shadow: 0 0 5px #4ecdc4;">
-    I'm a passionate <span style="color: #ff6b6b; font-weight: bold;">web developer</span> and <span style="color: #f7b731; font-weight: bold;">designer</span> currently pursuing my B.Tech in my 3rd year. My journey in the world of coding has been exciting, and I'm always eager to learn more. With a keen eye for aesthetics and a love for clean code, I strive to create innovative and user-friendly web experiences.
-  </p>
-</div>
+# 💫 About Me
+
+### 🚀 I'm a passionate **Web Developer and Designer** currently pursuing my **B.Tech in my 3rd year**. 
+
+> My journey in the world of coding has been exciting, and I'm always eager to learn more. With a keen eye for aesthetics and a love for clean code, I strive to create innovative and user-friendly web experiences.
+
+---
 
 
 
@@ -122,6 +126,7 @@
 
 <!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=brightgreen&style=flat" />
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20For%20Coming&fontSize=30&animation=twinkling&fontAlignY=70)
 </div>
