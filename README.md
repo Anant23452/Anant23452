@@ -12,9 +12,7 @@
 ![name](./name.svg)
 
 
-
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Engineer%20%7C%20DSA%20%7C%20LeetCode%20%7C%20Gen%20AI&fontSize=35&animation=twinkling&fontAlignY=40)
 
 
 <div align="center">
@@ -121,12 +119,11 @@
 
 
 
+
 <!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=brightgreen&style=flat" />
 
-
-
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20For%20Coming&fontSize=30&animation=twinkling&fontAlignY=70)
 </div>
 
 
