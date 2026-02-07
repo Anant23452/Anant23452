@@ -119,7 +119,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=shadow_green&hide_border=false)
 [![Anant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=shadow_green&layout=compact)](https://github.com/Anant23452)
 
-
+[![Anant's Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=greenapple&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
