@@ -113,7 +113,16 @@
 
 
 <!-- GitHub Profile Stats - Advanced and Dynamic -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anant23452&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=shadow_green&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Anant23452&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
 
 <!-- GitHub Stats -->
