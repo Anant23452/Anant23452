@@ -114,48 +114,24 @@
 
 <!-- GitHub Profile Stats - Advanced and Dynamic -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anant23452&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Anant23452&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=shadow_green&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Anant23452&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=anant23452&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
+[![Anant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=shadow_green&layout=compact)](https://github.com/Anant23452)
 
 
 
 
-
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anant23452&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
-
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant23452&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" width="49%" />
 
 
 <!-- Visitor Count -->
-<img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=brightgreen&style=flat" />
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anant23452&theme=tokyonight)](https://github.com/anant23452)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anant23452&theme=github_dark)](https://github.com/anant23452)
 
 
 </div>
-<!-- 🌙 Dark-Themed GitHub Contribution Section -->
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 15px; max-width: 800px; margin: auto;">
-  <h2 style="color:#58a6ff;">💻 Contributions Timeline</h2>
- 
-  <!-- GitHub Contribution Calendar with Custom Dark Theme -->
-<!-- Embed this script in your README -->
 
-<!-- 🌌 Contribution Calendar Section -->
 
 
 
