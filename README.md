@@ -107,9 +107,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anant23452&theme=darkhub&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
 
 
 <!-- GitHub Profile Stats - Advanced and Dynamic -->
@@ -117,9 +115,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anant23452&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=shadow_green&hide_border=false)
-[![Anant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=shadow_green&layout=compact)](https://github.com/Anant23452)
 
-[![Anant's Trophies](https://github-profile-trophy.vercel.app/?username=anant23452&theme=greenapple&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
@@ -127,7 +124,7 @@
 <!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=brightgreen&style=flat" />
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anant23452&theme=github_dark)](https://github.com/anant23452)
+
 
 
 </div>
