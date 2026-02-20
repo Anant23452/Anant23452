@@ -137,9 +137,15 @@
 
 <!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anant23452&label=Profile%20views&color=brightgreen&style=flat" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=220&section=footer&text=ThankU%20For%20Visiting✨&fontSize=32&animation=twinkling&fontAlignY=65"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌸-See%20You%20Again-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20For%20Coming&fontSize=30&animation=twinkling&fontAlignY=70)
 </div>
 
 
