@@ -63,11 +63,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anant23452&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=shadow_green&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=shadow_green&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anant23452&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Anant23452&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
