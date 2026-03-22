@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20%7C%20Gen%20AI&fontSize=32&animation=twinkling&fontAlignY=40)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+%2B+Node.js;DSA+with+C%2B%2B+%7C+Java+%7C+Python;Building+AI-powered+Web+Apps;Open+to+Internships+%26+Full-time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+%2B+Node.js;DSA+in+JavaScript+%7C+Namaste+DSA;Building+AI-powered+Web+Apps;Open+to+Internships+%26+Full-time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 🎓 B.Tech 3rd Year | Full Stack Developer | AI Enthusiast  
 🔨 Currently building: **Newbert 2.0** — an AI-powered chatbot with React + Node.js  
-🌱 Learning: **System Design · DSA (Striver Sheet) · TypeScript**  
+🌱 Learning: **System Design · DSA in JavaScript (Namaste DSA by Akshay Saini) · TypeScript**  
 💼 Open to: **Internships & Full-time SDE roles**  
 📍 India
 
@@ -23,7 +23,7 @@
 | [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs | Coming Soon |
 | [🎬 Netflix GPT](https://github.com/Anant23452/Netflix-gpt) | React, Firebase, OpenAI | Coming Soon |
 | [💘 Dev Tinder](https://github.com/Anant23452/Namaste-dev-tinder) | React, Node, MongoDB | Coming Soon |
-| [📦 DSA — C++](https://github.com/Anant23452/Cpp-Dsa) | C++, Striver Sheet | — |
+| [📦 DSA — JavaScript](https://github.com/Anant23452/Js-50-Question) | JavaScript, Namaste DSA | — |
 | [☕ OOPS — Java](https://github.com/Anant23452/OOPS-with-java) | Java | — |
 | [🐍 Python Practice](https://github.com/Anant23452/Python-) | Python | — |
 
@@ -47,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Languages & DSA**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript%20DSA-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
