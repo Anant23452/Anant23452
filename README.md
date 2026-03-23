@@ -111,16 +111,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anant23452&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
