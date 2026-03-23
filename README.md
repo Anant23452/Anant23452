@@ -87,15 +87,15 @@
 
 <div align="center">
 
-<a href="https://monkeytype.com/profile/Anant23452">
-  <img src="https://monkeytype-stats.churious.dev/api?user=Anant23452&theme=serika_dark&mode=time&length=30" alt="Monkeytype 30s WPM" />
+<a href="https://monkeytype.com/profile/Annnt">
+  <img src="https://monkeytype-stats.churious.dev/api?user=Annnt&theme=serika_dark&mode=time&length=30" alt="Monkeytype 30s WPM" />
 </a>
 
-<a href="https://monkeytype.com/profile/Anant23452">
-  <img src="https://monkeytype-stats.churious.dev/api?user=Anant23452&theme=serika_dark&mode=time&length=60" alt="Monkeytype 60s WPM" />
+<a href="https://monkeytype.com/profile/Annnt">
+  <img src="https://monkeytype-stats.churious.dev/api?user=Annnt&theme=serika_dark&mode=time&length=60" alt="Monkeytype 60s WPM" />
 </a>
 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Anant23452)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Annnt-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
 
 </div>
 
@@ -117,7 +117,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-k-patel-3734b4296/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anant_1704/)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Anant23452)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Annnt-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anant23452.github.io/Anant-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anant23452)
 
