@@ -65,7 +65,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=false&card_width=495&type=svg" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 
@@ -89,10 +89,6 @@
 
 <a href="https://monkeytype.com/profile/Annnt">
   <img src="https://raw.githubusercontent.com/Anant23452/Anant23452/monkeytype-readme/Annnt-monkeytype-readme-pb.svg" alt="Monkeytype personal best" />
-</a>
-
-<a href="https://monkeytype.com/profile/Annnt">
-  <img src="https://raw.githubusercontent.com/Anant23452/Anant23452/monkeytype-readme/Annnt-monkeytype-readme.svg" alt="Monkeytype recent scores" />
 </a>
 
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Annnt-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
