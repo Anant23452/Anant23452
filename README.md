@@ -87,17 +87,18 @@
 
 <div align="center">
 
+<!-- After running the GitHub Action below, replace this section with:
 <a href="https://monkeytype.com/profile/Annnt">
-  <img src="https://monkeytype-stats.churious.dev/api?user=Annnt&theme=serika_dark&mode=time&length=30" alt="Monkeytype 30s WPM" />
+  <img src="https://raw.githubusercontent.com/Anant23452/Anant23452/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
+-->
 
-<a href="https://monkeytype.com/profile/Annnt">
-  <img src="https://monkeytype-stats.churious.dev/api?user=Annnt&theme=serika_dark&mode=time&length=60" alt="Monkeytype 60s WPM" />
-</a>
-
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Annnt-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
+[![Monkeytype](https://img.shields.io/badge/⌨️%20Monkeytype-Visit%20Profile-E2B714?style=for-the-badge&labelColor=1a1a1a)](https://monkeytype.com/profile/Annnt)
+[![WPM](https://img.shields.io/badge/WPM-Check%20Profile-E2B714?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0UyQjcxNCIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBBMTAgMTAgMCAwIDAgMTIgMnptMCAxOGE4IDggMCAxIDEgOC04IDggOCAwIDAgMS04IDh6bTEtMTNoLTJ2NmwtNC0yLjM3LjktMS41NiAzLjEgMS44OVY3eiIvPjwvc3ZnPg==&logoColor=white)](https://monkeytype.com/profile/Annnt)
 
 </div>
+
+> ⚡ **To get the beautiful SVG card:** Follow the 3-step setup below once, then the card auto-updates every 6 hours with your latest WPM!
 
 ---
 
@@ -117,7 +118,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-k-patel-3734b4296/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anant_1704/)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Annnt-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anant23452.github.io/Anant-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anant23452)
 
