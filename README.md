@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 B.Tech 3rd Year | Full Stack Developer | AI Enthusiast  
+🎓 B.Tech final Year | Full Stack Developer | AI Enthusiast  
 🔨 Currently building: **Newbert 2.0** — an AI-powered chatbot with React + Node.js  
 🌱 Learning: **System Design · DSA in JavaScript (Namaste DSA by Akshay Saini) · TypeScript**  
 💼 Open to: **Internships & Full-time SDE roles**  
