@@ -20,7 +20,7 @@
 
 | Project | Tech Stack | Live |
 |--------|-----------|------|
-| [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs | Running... |
+| [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs |[link](https://newbert2-0.vercel.app/) |
 | [🎬 Netflix GPT](https://github.com/Anant23452/Netflix-gpt) | React, Firebase, OpenAI | Coming Soon |
 | [💘 Dev Tinder](https://github.com/Anant23452/Namaste-dev-tinder) | React, Node, MongoDB | Coming Soon |
 | [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React,Tailwind |[live](https://do-shop-eight.vercel.app/) |
