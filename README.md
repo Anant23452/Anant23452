@@ -23,8 +23,8 @@
 | [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs | Coming Soon |
 | [🎬 Netflix GPT](https://github.com/Anant23452/Netflix-gpt) | React, Firebase, OpenAI | Coming Soon |
 | [💘 Dev Tinder](https://github.com/Anant23452/Namaste-dev-tinder) | React, Node, MongoDB | Coming Soon |
-| [📦 DSA — JavaScript](https://github.com/Anant23452/Js-50-Question) | JavaScript, Namaste DSA | — |
-| [☕ OOPS — Java](https://github.com/Anant23452/OOPS-with-java) | Java | — |
+| [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React | — |
+| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React | — |
 | [🐍 Python Practice](https://github.com/Anant23452/Python-) | Python | — |
 
 ---
