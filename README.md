@@ -62,10 +62,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anant23452&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=false&card_width=495&type=svg" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant23452&theme=chartreuse-dark&hide_border=true" width="48%" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" />
+</p>
 ## 🏆 GitHub Trophies
 
 <p align="center">
