@@ -75,11 +75,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" />
 </p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anant23452&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
 
 </div>
 
@@ -121,7 +117,9 @@
 
 </div>
 
----
+## 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 ## 🤝 Connect with Me
 
