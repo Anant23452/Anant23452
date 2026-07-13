@@ -23,8 +23,8 @@
 | [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs | Running... |
 | [🎬 Netflix GPT](https://github.com/Anant23452/Netflix-gpt) | React, Firebase, OpenAI | Coming Soon |
 | [💘 Dev Tinder](https://github.com/Anant23452/Namaste-dev-tinder) | React, Node, MongoDB | Coming Soon |
-| [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React,Tailwind |https://do-shop-eight.vercel.app/ |
-| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React,Tailwind |(https://github-explore-pi.vercel.app/) |
+| [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React,Tailwind |[live](https://do-shop-eight.vercel.app/) |
+| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React,Tailwind |[Live](https://github-explore-pi.vercel.app/) |
 | [🐍 Python Practice](https://github.com/Anant23452/Python-) | Python | — |
 
 ---
