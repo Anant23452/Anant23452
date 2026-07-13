@@ -24,7 +24,7 @@
 | [🎬 Netflix GPT](https://github.com/Anant23452/Netflix-gpt) | React, Firebase, OpenAI | Coming Soon |
 | [💘 Dev Tinder](https://github.com/Anant23452/Namaste-dev-tinder) | React, Node, MongoDB | Coming Soon |
 | [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React,Tailwind |https://do-shop-eight.vercel.app/ |
-| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React,Tailwind | https://your-vercel-link.vercel.app |
+| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React,Tailwind |(https://github-explore-pi.vercel.app/) |
 | [🐍 Python Practice](https://github.com/Anant23452/Python-) | Python | — |
 
 ---
