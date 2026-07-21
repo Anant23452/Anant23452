@@ -58,28 +58,33 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
-</p>
+<a href="https://github.com/Anant23452">
+  <img alt="Anant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+</a>
+
+---
+
+## 📈 Most Used Languages
+
+<a href="https://github.com/Anant23452">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</a>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anant23452&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/Anant23452">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Anant23452&theme=chartreuse-dark&hide_border=true" />
+</a>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" />
 
 ---
 
