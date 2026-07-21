@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20%7C%20Gen%20AI%20Enthusiast&fontSize=60&fontAlign=50&fontAlignY=70&desc=Full%20Stack%20Engineer%20%7C%20React%20%2B%20Node.js%20%7C%20DSA%20%26%20AI&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev%20%7C%20DSA&fontSize=60&fontAlign=50)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+%2B+Node.js;DSA+in+JavaScript;Building+AI-Powered+Apps;Learning+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%2B+Node.js;DSA+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,9 +23,8 @@
 | [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs |[link](https://newbert2-0.vercel.app/) |
 | [🎬 Netflix GPT](https://github.com/Anant23452/Netflix-gpt) | React, Firebase, OpenAI | Coming Soon |
 | [💘 Dev Tinder](https://github.com/Anant23452/Namaste-dev-tinder) | React, Node, MongoDB | Coming Soon |
-| [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React,Tailwind |[live](https://do-shop-eight.vercel.app/) |
-| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React,Tailwind |[Live](https://github-explore-pi.vercel.app/) |
-
+| [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React, Tailwind |[live](https://do-shop-eight.vercel.app/) |
+| [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React, Tailwind |[Live](https://github-explore-pi.vercel.app/) |
 
 ---
 
@@ -59,25 +58,41 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=400" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400" alt="Most Used Languages" />
+![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
+---
+
+## 📈 Most Used Languages
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.vercel.app?user=Anant23452&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10)
 
 </div>
 
+---
+
+## 🔥 GitHub Streak Stats
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anant23452&theme=chartreuse-dark&hide_border=true)](https://github.com/Anant23452)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true&bg_color=0D1117)](https://github.com/Anant23452)
 
 </div>
 
@@ -119,9 +134,13 @@
 
 </div>
 
+---
+
 ## 💭 Developer Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+---
 
 ## 🤝 Connect with Me
 
@@ -142,5 +161,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=180&section=footer&text=Thanks+for+visiting!+%F0%9F%9A%80&fontSize=28&animation=twinkling&fontAlignY=75&desc=Keep%20Coding%20and%20Keep%20Learning%20🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=180&section=footer&text=Thanks+for+visiting!+%F0%9F%9A%80&fontSize=28&animation=twinkling&fontAlignY=75" />
 </p>
