@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20%7C%20Gen%20AI&fontSize=32&animation=twinkling&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20%7C%20Gen%20AI%20Enthusiast&fontSize=60&fontAlign=50&fontAlignY=70&desc=Full%20Stack%20Engineer%20%7C%20React%20%2B%20Node.js%20%7C%20DSA%20%26%20AI&descAlign=50)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+%2B+Node.js;DSA+in+JavaScript+%7C+Namaste+DSA;Building+AI-powered+Web+Apps;Open+to+Internships+%26+Full-time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+%2B+Node.js;DSA+in+JavaScript;Building+AI-Powered+Apps;Learning+System+Design" alt="Typing SVG" />
 </div>
 
 ---
@@ -59,23 +59,25 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant23452&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=400" alt="GitHub Stats" />
 
-## 📈 Contribution Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400" alt="Most Used Languages" />
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" />
-</p>
+</div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.vercel.app?user=Anant23452&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -140,5 +142,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=180&section=footer&text=Thanks+for+visiting!+%F0%9F%9A%80&fontSize=28&animation=twinkling&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=180&section=footer&text=Thanks+for+visiting!+%F0%9F%9A%80&fontSize=28&animation=twinkling&fontAlignY=75&desc=Keep%20Coding%20and%20Keep%20Learning%20🚀" />
 </p>
