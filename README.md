@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev%20%7C%20DSA&fontSize=60&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anant%20Patel%20%7C%20Full%20Stack%20Dev&fontSize=60&fontAlign=50)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%2B+Node.js;DSA+Enthusiast" alt="Typing SVG" />
@@ -58,43 +58,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-<div align="center">
-
-![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10)
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anant23452&theme=chartreuse-dark&hide_border=true)](https://github.com/Anant23452)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anant23452&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true&bg_color=0D1117)](https://github.com/Anant23452)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
