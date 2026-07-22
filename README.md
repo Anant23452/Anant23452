@@ -107,21 +107,10 @@
 
 </div>
 
----
 
-## ⌨️ Typing Speed — Monkeytype
 
-<div align="center">
 
-<a href="https://monkeytype.com/profile/Annnt">
-  <img src="https://raw.githubusercontent.com/Anant23452/Anant23452/monkeytype-readme/Annnt-monkeytype-readme-pb.svg" alt="Monkeytype personal best" />
-</a>
 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Annnt-E2B714?style=for-the-badge&logoColor=black)](https://monkeytype.com/profile/Annnt)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -136,6 +125,11 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anant23452/Anant23452/output/profile-3d-contrib/profile-night-green.svg"/>
+
+</div>
 
 ## 💭 Developer Quote
 
