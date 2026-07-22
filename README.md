@@ -84,6 +84,12 @@
 <a href="https://github.com/Anant23452">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Anant23452&theme=chartreuse-dark&hide_border=true" />
 </a>
+<a href="https://github.com/Anant23452">
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Anant23452?theme=github-dark&cardType=level"
+    alt="GitHub Level Stats"
+  />
+</a>
 
 ---
 
