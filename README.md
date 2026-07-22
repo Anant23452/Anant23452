@@ -56,25 +56,30 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
 
-<a href="https://github.com/Anant23452">
-  <img alt="Anant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-</a>
-
----
-
-## 📈 Most Used Languages
+<table>
+<tr>
+<td>
 
 <a href="https://github.com/Anant23452">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anant23452&theme=chartreuse_dark" alt="GitHub Stats"/>
 </a>
 
+</td>
+<td>
+
+<a href="https://github.com/Anant23452">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🔥 GitHub Streak
 
