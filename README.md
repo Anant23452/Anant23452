@@ -69,10 +69,12 @@
 ## 📈 Most Used Languages
 
 <a href="https://github.com/Anant23452">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
+    alt="Top Languages"
+  />
 </a>
 
----
 
 ## 🔥 GitHub Streak
 
