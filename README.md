@@ -70,19 +70,14 @@
 
 </td>
 <td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anant23452&theme=chartreuse_dark" alt="Most Commit Language"/>
 
-<a href="https://github.com/Anant23452">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41&border_radius=12"
-    alt="GitHub Stats"
-  />
-</a>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ## 🔥 GitHub Streak
 
@@ -93,8 +88,8 @@
 ---
 
 ## 📈 Contribution Activity
-
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anant23452&theme=github-compact&hide_border=true" />
+
 
 ---
 
