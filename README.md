@@ -72,9 +72,12 @@
 <td>
 
 <a href="https://github.com/Anant23452">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant23452&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Anant23452&show_icons=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41&border_radius=12"
+    alt="GitHub Stats"
+  />
 </a>
-
 </td>
 </tr>
 </table>
