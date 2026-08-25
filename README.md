@@ -23,7 +23,7 @@
 |--------|-----------|------|
 | [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs |[link](https://newbert.netlify.app/) |
 | [🎬 Expense Tracker](https://github.com/Anant23452/Expense-tracker) | React,TS, CRUD | Coming Soon |
-| [💘 DevHub](https://github.com/Anant23452/devhub/tree/master) | React, Node, MongoDB | Coming Soon |
+| [💘 DevHub](https://github.com/Anant23452/devhub/tree/master) | React, Node, MongoDB | [link]([link](https://newbert.netlify.app/)) |
 | [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React, Tailwind |[live](https://do-shop-eight.vercel.app/) |
 | [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React, Tailwind |[Live](https://github-explore-pi.vercel.app/) |
 
