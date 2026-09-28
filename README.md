@@ -126,11 +126,7 @@
 </div>
 
 ---
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Anant23452/Anant23452/output/profile-3d-contrib/profile-night-green.svg"/>
-
-</div>
 
 ## 💭 Developer Quote
 
