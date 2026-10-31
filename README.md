@@ -21,8 +21,8 @@
 
 | Project | Tech Stack | Live |
 |--------|-----------|------|
-| [🤖 Newbert 2.0](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs |[link](https://newbert-frontend.vercel.app/) |
-| [🎬 Expense Tracker](https://github.com/Anant23452/Expense-tracker) | React,TS, CRUD | Coming Soon |
+| [🤖 Newbert](https://github.com/Anant23452/Newbert2.0) | React, Node.js, AI APIs |[link](https://newbert-frontend.vercel.app/) |
+| [🎬 NewbertAiVideo](https://github.com/Anant23452/NewbertAiVideo/tree/main) | React,TS, CRUD | Coming Soon |
 | [💘 DevHub](https://github.com/Anant23452/devhub/tree/master) | Next.js, Node, MongoDB |[link](https://devhub-annt001.vercel.app/) |
 | [📦 Do-shop](https://github.com/Anant23452/Do-shop) | JavaScript, React, Tailwind |[live](https://do-shop-eight.vercel.app/) |
 | [☕ Github-Explorer](https://github.com/Anant23452/Github-explore) | React, Tailwind |[Live](https://github-explore-pi.vercel.app/) |
