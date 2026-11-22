@@ -114,26 +114,7 @@
 
 
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anant23452/Anant23452/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anant23452/Anant23452/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anant23452/Anant23452/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-
-## 💭 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
----
 
 ## 🤝 Connect with Me
 
